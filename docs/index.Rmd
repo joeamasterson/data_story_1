@@ -1,12 +1,9 @@
 ---
-title: "Energy"
+title: "Global Development and Economic Indicators (2007)"
 author: "Joe Masterson"
-date: "2026-02-10"
+date: "2026-02-16"
 output: html_document
 ---
-# Title: Global Development and Economic Indicators (2007)
-### Author: Joe Masterson 
-### Date: 2-16-2026
 
 
 ### A List of Data Set's to Create Graph's and Table: 
